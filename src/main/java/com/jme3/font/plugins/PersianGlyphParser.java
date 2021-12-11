@@ -53,6 +53,7 @@ public class PersianGlyphParser implements GlyphParser {
     public PersianGlyphParser() {
     }
 
+    @Override
     public CharSequence parse(CharSequence str) {
         if (str.length() <= 1) {
             return str;
