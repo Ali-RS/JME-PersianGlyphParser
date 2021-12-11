@@ -1,2 +1,2 @@
 # JME-PersianGlyphParser
-Glyph parser implementation for jMonkeyEngine
+Persian glyph parser implementation for jMonkeyEngine bitmap font system.
